@@ -1,0 +1,2 @@
+var input = require('fs').readFileSync('teste', 'utf8');
+var lines = input.split('\n');
