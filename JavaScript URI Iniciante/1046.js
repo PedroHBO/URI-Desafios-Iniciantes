@@ -11,6 +11,6 @@ else if (fim === ini) {
 }
 else {
     var temp = fim - ini;
-}
+} 
 
 console.log("O JOGO DUROU " + temp + " HORA(S)");

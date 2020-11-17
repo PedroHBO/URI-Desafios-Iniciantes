@@ -28,4 +28,4 @@ else {
     if ((a === b && a !== c) || (a !== b && b === c) || (a === c && c !== b)) {
         console.log("TRIANGULO ISOSCELES");
     }
-}
+} 

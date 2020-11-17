@@ -1,2 +1,2 @@
 select DISTINCT city
-from customers;
+from customers; 
