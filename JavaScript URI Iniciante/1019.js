@@ -5,13 +5,13 @@ var sec = parseInt(lines.shift());
 var min = 0;
 var hr = 0;
 
-while(sec>=60){
-    sec= sec-60;
-    min= min+1;
-    while(min>=60){
-        min= min-60;
-        hr= hr+1;
-        
+while (sec >= 60) {
+    sec = sec - 60;
+    min = min + 1;
+    while (min >= 60) {
+        min = min - 60;
+        hr = hr + 1;
+
     }
 }
 

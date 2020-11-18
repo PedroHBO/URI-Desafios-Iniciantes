@@ -5,5 +5,5 @@ var km = 12;
 var tempg = parseInt(lines.shift());
 var velm = parseInt(lines.shift());
 
-var litros = (tempg*velm)/km;
+var litros = (tempg * velm) / km;
 console.log(litros.toFixed(3));

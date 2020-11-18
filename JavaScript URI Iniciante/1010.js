@@ -18,4 +18,4 @@ var total2 = num2 * valor2;
 
 var tt = total1 + total2;
 
-console.log("VALOR A PAGAR: R$ "+ tt.toFixed(2));
+console.log("VALOR A PAGAR: R$ " + tt.toFixed(2));
