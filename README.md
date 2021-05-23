@@ -21,7 +21,7 @@ var input = require('fs').readFileSync('teste', 'utf8');
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 
 ```
-####FAMOSO HELLO WORLD PARA COMEÇAR COM O PÉ DIREITO
+#### FAMOSO HELLO WORLD PARA COMEÇAR COM O PÉ DIREITO
 
 ```javascript
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
