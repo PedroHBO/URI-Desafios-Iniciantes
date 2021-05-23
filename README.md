@@ -31,9 +31,6 @@ console.log("Hello World!");
 ```
 **Lets bora!**
 
-<br>
---------------------------------------------------------------------------------------------------------------
-<br>
 
 # :rocket: URI-Challenges-Beginners
 ### Hi Dev, how are you? :v: <br> <br> Well, I am learning to program and I am challenge me to do exercises from URI Online Judge Beginner in JavaScript and I want to do a portfolio in parallel.
