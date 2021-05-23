@@ -1,8 +1,6 @@
 # :rocket: URI-Desafios-Iniciantes
 ### Fala Dev, tudo bem? :v: <br><br> Bom, estou aprendendo a programar e estou fazendo desafios do URI Online Judge Iniciante em JavaScript e quero aproveitar para deixar um portfólio legal em paralelo. 
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
 **SOBRE O URI:**
 
 The <a href="https://www.urionlinejudge.com.br/judge/en/login" target="_blank">URI Online Judge</a> contém mais de 1000 problemas divididos em 8 grandes categorias. Esta divisão ajuda os usuários a focar em temas específicos. Todos os problemas estão disponíveis em Português e Inglês.
@@ -37,8 +35,6 @@ console.log("Hello World!");
 
 #:rocket: URI-Challenges-Beginners
 ### Hi Dev, how are you? :v: <br> <br> Well, I am learning to program and I am challenge me to do exercises from URI Online Judge Beginner in JavaScript and I want to do a portfolio in parallel.
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 **ABOUT URI:**
 
