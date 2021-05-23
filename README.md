@@ -1,5 +1,5 @@
-#:tw-1f680: URI-Desafios-Iniciantes
-### Fala Dev, tudo bem? :tw-270c: <br><br> Bom, estou aprendendo a programar e estou fazendo desafios do URI Online Judge Iniciante em JavaScript e quero aproveitar para deixar um portfólio legal em paralelo. 
+#:rocket: URI-Desafios-Iniciantes
+### Fala Dev, tudo bem? :v: <br><br> Bom, estou aprendendo a programar e estou fazendo desafios do URI Online Judge Iniciante em JavaScript e quero aproveitar para deixar um portfólio legal em paralelo. 
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
@@ -35,8 +35,8 @@ console.log("Hello World!");
 
 [========]
 
-#:tw-1f680: URI-Challenges-Beginners
-### Hi Dev, how are you? :tw-270c: <br> <br> Well, I am learning to program and I am challenge me to do exercises from URI Online Judge Beginner in JavaScript and I want to do a portfolio in parallel.
+#:rocket: URI-Challenges-Beginners
+### Hi Dev, how are you? :v: <br> <br> Well, I am learning to program and I am challenge me to do exercises from URI Online Judge Beginner in JavaScript and I want to do a portfolio in parallel.
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
