@@ -50,7 +50,7 @@ var input = require('fs').readFileSync('test', 'utf8');
 ```
 >And now it is just coding.
 
-**Remember to replace the ` 'test'`  with ` 'dev / stdin'`  to deliver to  URI.**
+**Remember to replace the ` 'test'`  with ` 'dev/stdin'`  to deliver to  URI.**
 
 ```javascript
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
