@@ -29,7 +29,7 @@ var lines = input.split('\n');
 
 console.log("Hello World!");
 ```
-**Lets bora!**
+**Avante DEV!**
 
 
 # :rocket: URI-Challenges-Beginners
@@ -64,4 +64,4 @@ var lines = input.split('\n');
 
 console.log("Hello World!");
 ```
-**Lets bora!**
+**Forward DEV!**
